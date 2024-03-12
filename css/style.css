@@ -33,4 +33,31 @@ h2{
 #hj{
     border-bottom: 4px solid wheat;
 }
+.hex{
+    color: aqua;
+}
+.sahex{
+    color: blueviolet;
+}
+.bg-imagem {
+    background-image: url(../img/nature.jpg.png);
+    padding: 10px;
+    color: white;
+
+   
+}
+.bc{
+    background-color: green ;
+    opacity: 0.8;
+}
+.bd{
+    background-color: green;
+    color: black;
+    opacity: 0.8;
+}
+.bf{
+    background-color: green;
+    color: black;
+    opacity: 0.1;
+}
 
