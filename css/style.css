@@ -1,0 +1,36 @@
+/*body {
+    background-color: aqua;
+}
+
+
+p {
+    color: violet;
+    font-size: 80px;
+}*/
+body {
+    padding-bottom: 500px;
+}
+.paragraph{
+    background-color: black;
+    color: aqua;
+    padding: 0%
+    ;
+}
+#wh {
+    background-color: purple;
+    color:beige;
+    padding: 10px;
+    font-size: 40px;
+}
+h2{
+    border-bottom: 22px dotted red;
+
+
+}
+.tj{
+    border-bottom: 3px solid blue;
+}
+#hj{
+    border-bottom: 4px solid wheat;
+}
+
